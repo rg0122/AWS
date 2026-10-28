@@ -8,3 +8,4 @@ finish lab 3.2
 finish lab 3.3
 <img width="1816" height="903" alt="image" src="https://github.com/user-attachments/assets/90e3b166-6c90-4276-884e-7837068e5b13" />
 finish lab 3.4
+<img width="1819" height="892" alt="image" src="https://github.com/user-attachments/assets/509ff68c-72c0-4b55-8172-83c745df1bd6" />
