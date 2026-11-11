@@ -15,4 +15,3 @@ finish lab 3.6
 <img width="1808" height="907" alt="image" src="https://github.com/user-attachments/assets/c747238f-a77a-4605-bdfe-b5dcf4efe7ab" />
 finish lab 3.7
 <img width="1316" height="846" alt="image" src="https://github.com/user-attachments/assets/0526d153-c998-485f-9385-0eafc5e12e91" />
-- Pass Module 3 Knowledge Check
