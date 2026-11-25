@@ -19,3 +19,5 @@ finish lab 3.7
   <img width="1553" height="896" alt="image" src="https://github.com/user-attachments/assets/5a0a53b6-1614-411d-a13f-15e28d91fe97" />
   - Pass Module 4 Knowledge Check
 <img width="1719" height="879" alt="image" src="https://github.com/user-attachments/assets/6180cc0c-5633-4edb-8664-499ba998bbe0" />
+ - Pass Module 5 Knowledge Check
+<img width="1457" height="804" alt="image" src="https://github.com/user-attachments/assets/b874089c-4193-4d83-a14f-0d074be46fd3" />
